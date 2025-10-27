@@ -1,4 +1,4 @@
-# Assessment Developer (up to a Senior-level) - Secret message
+# Assessment Developer (up to Mid-level developer) - Secret message
 
 At BAS Tech we primarily use PHP for our service development. We create web applications, 
 APIs, microservices, (native) apps and a monolithic intranet. 
@@ -63,4 +63,5 @@ Recipient:
 
 _**Remember: it's not a requirement to have everything ready! Your choices matter more than
 a finished product!**_
+
 
